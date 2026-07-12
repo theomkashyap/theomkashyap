@@ -1,13 +1,14 @@
-### Hey, I'm Om 👋
+# Hey, I'm Om 👋
 
-I'm a Computer Science student who got a little too curious about how things break — and ended up specializing in cybersecurity and digital forensics because of it.
+I'm a Computer Science student who spends most of his free time learning cybersecurity by building, breaking, and fixing things.
 
-Most of my time goes into building things I can actually poke holes in later. I run small SOC labs at home, mess around with SIEM tools like Splunk and Wazuh, and spend a good chunk of my weekends buried in CTF challenges on Hack The Box. There's something satisfying about setting up a detection pipeline and then trying to sneak past it myself.
+These days you'll usually find me solving Hack The Box machines, exploring bug bounty, setting up home labs, or experimenting with tools like Wazuh and Splunk. I enjoy understanding how attacks work just as much as figuring out how to detect them.
 
-Lately I've been building an AI-assisted network threat triage tool — basically a dashboard that watches traffic, flags the sketchy stuff (port scans, brute force attempts, floods), and explains what it's seeing instead of just throwing raw logs at you. It's been a good excuse to get better at both security and just writing cleaner Python.
+I'm currently building an AI-powered network threat triage tool to learn more about network security, detection engineering, and automation. Every project here is something I've built while learning, not just to fill a GitHub profile.
 
-Outside of security, I like building small, simple projects — usually just a single HTML file, no frameworks, no overengineering. If I can build it clean and ship it fast, I'm happy.
+I'm still exploring different areas of cybersecurity—from blue team and SOC operations to penetration testing—and that's exactly what makes this field exciting. There's always something new to learn.
 
-Still figuring a lot of this out as I go. If you're into bug bounty, blue team work, or just want to talk about a weird CTF writeup, feel free to reach out.
+## 📫 Connect with Me
 
-**Find me at:** [omkashyap209@gmail.com](mailto:omkashyap209@gmail.com) · [github.com/theomkashyap](https://github.com/theomkashyap)
+- **Email:** <omkashyap209@gmail.com>
+- **GitHub:** https://github.com/theomkashyap
