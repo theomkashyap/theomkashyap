@@ -1,11 +1,11 @@
 # Hey, I'm Om 👋
 
-Every repository here tells a story.
+Every repository here tells part of my journey.
 
-Some started as an idea, some as a challenge, and some as a mistake that turned into a lesson.
+Some began as an idea, some as a challenge, and some as mistakes that became valuable lessons.
 
-I'm a Computer Science student passionate about cybersecurity. I enjoy solving CTFs, building security projects, experimenting with home labs, and learning by doing.
+I'm a Computer Science student with a strong interest in cybersecurity. I enjoy solving CTFs, participating in bug bounty programs, building security projects, experimenting with home labs, and learning through hands-on experience.
 
-This GitHub isn't a showcase of perfect projects—it's a timeline of my learning, one project, one challenge, and one lesson at a time.
+This GitHub isn't a showcase of perfect projects—it's a record of continuous learning, one project, one challenge, and one lesson at a time.
 
-There's still a lot to learn, and that's exactly what makes this journey exciting..
+There's always more to learn, and that's what keeps me building.
