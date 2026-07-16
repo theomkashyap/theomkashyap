@@ -8,4 +8,4 @@ I'm a Computer Science student with a strong interest in cybersecurity. I enjoy 
 
 This GitHub isn't a showcase of perfect projects—it's a record of continuous learning, one project, one challenge, and one lesson at a time.
 
-There's always more to learn, and that's what keeps me building.
+There's always more to learn, and that's what keeps me building. 
